@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: uppercase;
+}
+
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/f%C3%B3rmulas-de-c%C3%A1lculo-da-geometria-matem%C3%A1tica-ou-f%C3%ADsica-figuras-%C3%A1lgebra-e-gr%C3%A1ficos-vetor-educa%C3%A7%C3%A3o-escolar-rabisco-conjunto-237972253.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: url("https://thumbs.dreamstime.com/b/f%C3%B3rmulas-de-c%C3%A1lculo-da-geometria-matem%C3%A1tica-ou-f%C3%ADsica-figuras-%C3%A1lgebra-e-gr%C3%A1ficos-vetor-educa%C3%A7%C3%A3o-escolar-rabisco-conjunto-237972253.jpg");
+    background-attachment: fixed;
+    z-index: -10;
+}
+
+header{
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(45deg, #1c301d, #000);
+    width: 50rem;
+    /* margin-left: 15rem;
+    margin-top: 15rem; */
+    margin: auto;
+    margin-top: 13rem;
+    padding: 2.5rem;
+    border-radius: 1rem;
+}
+
+h1{
+    font-weight: 100;
+    color: #fff;
+    font-size: 2.3rem;
+    font-family:  "Montsserat", "Merriweather", 'Courier New', Courier, monospace;
+    letter-spacing: 4px;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 1.1rem;
+    letter-spacing: 4px;
+    font-weight: 100;
+    color: #fff;
+    margin-bottom: 0.2rem;
+}
+
+#atualize{
+    font-size: 0.6rem;
+    font-weight: 600;
+}
+
+footer{
+    text-align: center;
+    margin-top: 10.8rem;
+    background: linear-gradient(45deg, #1c301d, #000);
+    padding: 1rem;
+}
